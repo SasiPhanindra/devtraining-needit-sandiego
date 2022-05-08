@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Collection Tracker Config">3497625a4f0701102bd6313d4bdb0714</app_config>
+        <description/>
+        <fields/>
+        <icon>paperclip-outline</icon>
+        <name>Recordnew default Attachment</name>
+        <optional_parameters/>
+        <order>1</order>
+        <parent_macroponent display_value="Record">a9b52c9a1bdf0d10f94543fddc4bcb92</parent_macroponent>
+        <parent_macroponent_composition_element_id>contextual_sidebar</parent_macroponent_composition_element_id>
+        <route_type>attachmenttab</route_type>
+        <screen_type display_value="Attachment">747828db0f0210107d20409dc4767eb5</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-08 11:38:25</sys_created_on>
+        <sys_id>98c5a8da1bdf0d10f94543fddc4bcb13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recordnew default Attachment</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_811946_collect_0">08d9425e1b830110f94543fddc4bcb34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_app_route_98c5a8da1bdf0d10f94543fddc4bcb13</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-08 11:38:25</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=98c5a8da1bdf0d10f94543fddc4bcb13"/>
+</record_update>
